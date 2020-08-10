@@ -3,5 +3,7 @@ kheer
 dal bhat tarkari
 mix veg
 curd
+roti
+momo
 
 thanks :)
